@@ -1,0 +1,6 @@
+# Dependencias directas del curso. Las versiones las resuelve pip.
+anthropic
+python-dotenv
+notebook
+ipykernel
+jupyterlab

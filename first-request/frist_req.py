@@ -8,7 +8,7 @@ from anthropic import Anthropic
 
 client = Anthropic()
 
-model = "claude-haikku-4-5"
+model = "claude-haiku-4-5"
 
 # On a separate block in jupyter
 
